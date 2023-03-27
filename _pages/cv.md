@@ -11,10 +11,11 @@ redirect_from:
 
 Academic Appointments
 ======
-* University of Pennsylvania, Annenberg School for Communication
-  - **Provost's Postdoctoral Fellow**, 2022-present
+* University of Pennsylvania
+  - **Provost's Postdoctoral Fellow**, [Annenberg School for Communication](https://www.asc.upenn.edu/), 2022-present
+  - **Postdoctoral Fellow** (by courtesy), [Program on Race, Science, & Society](https://prss.sas.upenn.edu/), 2023-present
 * Massachusetts Institute of Technology, Women's and Gender Studies Program
-  - **Visiting Scholar** (School of Humanities, Arts, and Social Sciences Diversity Predoctoral Fellow), 2021–2022
+  - **Visiting Scholar (Diversity Predoctoral Fellow)**, [School of Humanities, Arts, and Social Sciences](https://shass.mit.edu/academics/graduate/diversity-predoc/fellows), 2021–2022
 
 
 
@@ -33,7 +34,7 @@ Publications
 Manuscripts in Progress
 ======
 - "Minor Theories of Everything: On Popular Science and Contemporary Fiction" (book manuscript)
-- “Inventing Rape Ecology: Octavia E. Butler and the Sociobiology of Sexual Violence” (invited to revise and resubmit at _PMLA_)
+- “Inventing Rape Ecology: Octavia E. Butler and the Sociobiology of Sexual Violence” (revising for resubmission to _PMLA_)
 - “Nothing but Mammals: Feminism, Pornography, and the Sociobiology of Sexual Violence" (under review at _Representations_)
 
 
