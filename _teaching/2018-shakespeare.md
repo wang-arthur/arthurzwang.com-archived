@@ -1,5 +1,5 @@
 ---
-title: "ENGL 201: Shakespeare: Histories and Tragedies"
+title: "ENGL 201: Shakespeare: Histories and Tragedies (Spring 2018)"
 collection: Teaching Fellow
 type: "Teaching Fellow for undergraduate lecture course (Professor David Kastan)"
 permalink: /teaching/2018-shakespeare
