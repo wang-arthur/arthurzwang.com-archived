@@ -1,5 +1,5 @@
 ---
-title: "ENGL 188 / FMS 210: Philosophy of Digital Media"
+title: "ENGL 188 / FMS 210: Philosophy of Digital Media (Fall 2017)"
 collection: Teaching Fellow
 type: "Teaching Fellow for undergraduate lecture course (Professor John Durham Peters)"
 permalink: /teaching/2017-philosophy-digital-media
