@@ -48,7 +48,8 @@ Talks
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  {% assign teaching = site.teaching %}
+  <ul>{% for post in teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
