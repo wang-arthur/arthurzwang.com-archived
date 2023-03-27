@@ -1,5 +1,5 @@
 ---
-title: "COMM 3011: Media, Medicine, and the Arts of Mortality"
+title: "COMM 3011: Media, Medicine, and the Arts of Mortality (Fall 2023)"
 collection: teaching
 type: "Undergraduate course (junior seminar)"
 permalink: /teaching/2023-media-medicine-arts-mortality
