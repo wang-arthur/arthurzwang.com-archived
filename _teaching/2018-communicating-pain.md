@@ -1,5 +1,5 @@
 ---
-title: "ENGL 114: Communicating Pain"
+title: "ENGL 114: Communicating Pain (Fall 2018)"
 collection: teaching
 type: "Undergraduate course (first-year writing seminar)"
 permalink: /teaching/2018-communicating-pain
