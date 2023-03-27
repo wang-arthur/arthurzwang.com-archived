@@ -1,5 +1,5 @@
 ---
-title: "ENGL 260 / HUMS 222: Science and Narrative"
+title: "ENGL 260 / HUMS 222: Science and Narrative (Spring 2021)"
 collection: teaching
 type: "Undergraduate course (junior seminar co-taught with R. John Williams)"
 permalink: /teaching/2021-science-and-narrative
