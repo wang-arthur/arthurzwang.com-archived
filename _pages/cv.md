@@ -83,7 +83,8 @@ Service and Experience
 
 Additional Training
 ======
-- **Advanced Oral History Institute**, Oral History Center, UC Berkeley Bancroft Library, Berkeley, CA (online), August 2023
+- **Advanced Oral History Institute**, Oral History Center, UC Berkeley Bancroft Library (online), August 2023
+- **9ur SHARED Future: Science, Humanities, Arts, Research Ethics, and Deliberation**, Jason Robery and Erica O'Neil, NEH Summer Institute, ASU Center for Biology and Society, June-July 2023
 - **Oral History Training Institute**, Science History Institute, Philadelphia, PA (online), May 2023
 - **Literary Biography: Archives and Life Stories**, Karin Roffman, Beinecke Library Master Class, Yale University, May 2019
 - **Challenges of Media Anthropology**, Lorenz Engell and Thomas Y. Levin, Princeton-Weimar Summer School for Media Studies, IKKM, Bauhaus-Universität Weimar, Germany, June 2017
@@ -91,7 +92,7 @@ Additional Training
 
 Awards and Honors
 =====
-
+- **Mellon Seminar Research Fellowship**, Price Lab for Digital Humanities, University of Pennsylvania, 2023-2024
 - **Provost’s Postdoctoral Fellowship for Academic Diversity**, University of Pennsylvania, 2022–2025
 - **Society of Fellows** (declined), University of Southern California, 2022–2024
 - **Diversity Predoctoral Fellowship**, Women’s and Gender Studies Program, MIT School of Humanities, Arts, and Social Sciences (SHASS), 2021–2022
