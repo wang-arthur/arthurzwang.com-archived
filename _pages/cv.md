@@ -84,7 +84,7 @@ Service and Experience
 Additional Training
 ======
 - **Advanced Oral History Institute**, Oral History Center, UC Berkeley Bancroft Library (online), August 2023
-- **9ur SHARED Future: Science, Humanities, Arts, Research Ethics, and Deliberation**, Jason Robery and Erica O'Neil, NEH Summer Institute, ASU Center for Biology and Society, June-July 2023
+- **Our SHARED Future: Science, Humanities, Arts, Research Ethics, and Deliberation**, Jason Robery and Erica O'Neil, NEH Summer Institute, ASU Center for Biology and Society, June-July 2023
 - **Oral History Training Institute**, Science History Institute, Philadelphia, PA (online), May 2023
 - **Literary Biography: Archives and Life Stories**, Karin Roffman, Beinecke Library Master Class, Yale University, May 2019
 - **Challenges of Media Anthropology**, Lorenz Engell and Thomas Y. Levin, Princeton-Weimar Summer School for Media Studies, IKKM, Bauhaus-Universität Weimar, Germany, June 2017
