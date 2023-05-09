@@ -1,8 +1,8 @@
 ---
-title: "Minor Theories of Everything"
+title: "Making Scientific Lives"
 collection: projects
 type: book
-permalink: /publication/minor-theories-of-everything
+permalink: /publication/making-scientific-lives
 excerpt: ''
 ---
 
