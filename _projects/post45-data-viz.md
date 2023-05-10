@@ -17,6 +17,8 @@ excerpt: ''
   src="https://observablehq.com/embed/@post45/post45-timeline-comps-may-9-2023?cells=compsChart"></iframe>
 
 
+Color scheme for the visualizations above: [Cheysson Palette](https://observablehq.com/@tomshanley/cheysson-color-palettes) licensed under ISC License (ISC) Copyright 2021 [Tom Shanley](https://observablehq.com/@tomshanley)
+
 ## Post45 Submission Outcomes since 2020 (excluding special issues)
 <figure>
 	<object type="image/svg+xml" data="../images/outcomes_sankey.svg" class="fitvidsignore"></object>
