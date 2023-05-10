@@ -1,0 +1,84 @@
+<svg height="600" width="800" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 5/9/2023, 2:57:38 PM -->
+<rect height="600" width="800" fill="#ffffff"></rect>
+<g transform="translate(177.23126071453095,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M9 158.21325C79.72109 158.21325 79.72109 138.03245 150.44218 138.03245" fill="none" stroke-width="186.8265" stroke="#d95f02" opacity="0.45"><title>Submissions → Desk Reject: 65.9%</title></path>
+<path id="flow2" d="M159.44218 138.03245C380.60546 138.03245 380.60546 129.4772 601.76874 129.4772" fill="none" stroke-width="186.8265" stroke="#e7298a" opacity="0.45"><title>Desk Reject → Reject: 65.9%</title></path>
+<path id="flow1" d="M9 299.96325C79.72109 299.96325 79.72109 338.9637 150.44218 338.9637" fill="none" stroke-width="96.6735" stroke="#7570b3" opacity="0.45"><title>Submissions → Peer Review: 34.1%</title></path>
+<path id="flow4" d="M159.44218 314.8662C230.16328 314.8662 230.16328 298.35462 300.88437 298.35462" fill="none" stroke-width="48.4785" stroke="#e7298a" opacity="0.45"><title>Peer Review → Reject After Review: 17.1%</title></path>
+<path id="flow6" d="M309.88437 298.35462C455.82655 298.35462 455.82655 247.1297 601.76874 247.1297" fill="none" stroke-width="48.4785" stroke="#e7298a" opacity="0.45"><title>Reject After Review → Reject: 17.1%</title></path>
+<path id="flow5" d="M159.44218 354.5562C233.66256 354.5562 233.66256 411.70018 307.88294 411.70018" fill="none" stroke-width="30.9015" stroke="#e6ab02" opacity="0.45"><title>Peer Review → R&amp;R: 10.9%</title></path>
+<path id="flow9" d="M316.88294 415.10218C389.10545 415.10218 389.10545 444.0644 461.32795 444.0644" fill="none" stroke-width="24.0975" stroke="#66a61e" opacity="0.45"><title>R&amp;R → Accept Revision: 8.5%</title></path>
+<path id="flow11" d="M470.32795 444.0644C530.04871 444.0644 530.04871 500.04344 589.76947 500.04344" fill="none" stroke-width="24.0975" stroke="#66a61e" opacity="0.45"><title>Accept Revision → Accept: 8.5%</title></path>
+<path id="flow3" d="M159.44218 378.6537C231.66469 378.6537 231.66469 499.42309 303.8872 499.42309" fill="none" stroke-width="17.2935" stroke="#66a61e" opacity="0.45"><title>Peer Review → Accept After Review: 6.1%</title></path>
+<path id="flow7" d="M312.8872 499.42309C451.32833 499.42309 451.32833 520.73894 589.76947 520.73894" fill="none" stroke-width="17.2935" stroke="#66a61e" opacity="0.45"><title>Accept After Review → Accept: 6.1%</title></path>
+<path id="flow8" d="M316.88294 399.65143C391.60579 399.65143 391.60579 375.95829 466.32865 375.95829" fill="none" stroke-width="6.804" stroke="#e7298a" opacity="0.45"><title>R&amp;R → Reject Revision: 2.4%</title></path>
+<path id="flow10" d="M475.32865 375.95829C538.54869 375.95829 538.54869 274.77095 601.76874 274.77095" fill="none" stroke-width="6.804" stroke="#e7298a" opacity="0.45"><title>Reject Revision → Reject: 2.4%</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r0" class="for_r0" x="0" y="64.8" height="283.5" width="9" fill="#1b9e77" fill-opacity="1"><title>Submissions:
+100.0%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r1" class="for_r1" x="150.44218" y="44.6192" height="186.8265" width="9" fill="#d95f02" fill-opacity="1"><title>Desk Reject:
+65.9%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r2" class="for_r2" x="150.44218" y="290.62695" height="96.6735" width="9" fill="#7570b3" fill-opacity="1"><title>Peer Review:
+34.1%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r3" class="for_r3" x="601.76874" y="36.06395" height="242.109" width="9" fill="#e7298a" fill-opacity="1"><title>Reject:
+85.4%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r4" class="for_r4" x="300.88437" y="381.77512" height="17.2935" width="9" fill="#66a61e" fill-opacity="1" transform="translate(3.00283,109.00122)"><title>Accept After Review:
+6.1%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r5" class="for_r5" x="300.88437" y="274.11537" height="48.4785" width="9" fill="#e7298a" fill-opacity="1"><title>Reject After Review:
+17.1%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r6" class="for_r6" x="300.88437" y="458.24987" height="30.9015" width="9" fill="#e6ab02" fill-opacity="1" transform="translate(6.99857,-62.00044)"><title>R&amp;R:
+10.9%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r7" class="for_r7" x="601.76874" y="474.99508" height="41.391" width="9" fill="#66a61e" fill-opacity="1" transform="translate(-11.99927,12.99961)"><title>Accept:
+14.6%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r8" class="for_r8" x="451.32655" y="374.555" height="6.804" width="9" fill="#e7298a" fill-opacity="1" transform="translate(15.00209,-1.99871)"><title>Reject Revision:
+2.4%</title></rect>
+</g>
+<g class="node" style="touch-action: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+<rect id="r9" class="for_r9" x="451.32655" y="517.015" height="24.0975" width="9" fill="#66a61e" fill-opacity="1" transform="translate(10.0014,-84.99935)"><title>Accept Revision:
+8.5%</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" font-weight="400" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-165.23125" y="195.37" width="163.59793" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.3" y="206.55" dy="5.22">Submissions: 100.0%</text>
+<rect id="label1_bg" class="for_r1" x="-1.43489" y="126.85246" width="150.24376" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="end" x="144.14218" y="138.03245" dy="5.22">Desk Reject: 65.9%</text>
+<rect id="label2_bg" class="for_r2" x="-5.89323" y="327.78372" width="154.70208" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="144.14218" y="338.9637" dy="5.22">Peer Review: 34.1%</text>
+<rect id="label3_bg" class="for_r3" x="490.78752" y="145.93846" width="109.34792" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="595.46874" y="157.11845" dy="5.22">Reject: 85.4%</text>
+<rect id="label4_bg" class="for_r4" x="100.98648" y="379.24191" width="198.26458" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(3.00283,109.00122)"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="294.58437" y="390.42187" dy="5.22" transform="translate(3.00283,109.00122)">Accept After Review: 6.1%</text>
+<rect id="label5_bg" class="for_r5" x="95.64273" y="287.17462" width="203.60833" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="294.58437" y="298.35462" dy="5.22">Reject After Review: 17.1%</text>
+<rect id="label6_bg" class="for_r6" x="201.47606" y="462.52062" width="97.77501" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(6.99857,-62.00044)"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="294.58437" y="473.70062" dy="5.22" transform="translate(6.99857,-62.00044)">R&amp;R: 10.9%</text>
+<rect id="label7_bg" class="for_r7" x="487.22502" y="484.51061" width="112.91042" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-11.99927,12.99961)"></rect>
+<text id="label7" class="for_r7" text-anchor="end" x="595.46874" y="495.69058" dy="5.22" transform="translate(-11.99927,12.99961)">Accept: 14.6%</text>
+<rect id="label8_bg" class="for_r8" x="283.43904" y="366.777" width="166.25418" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(15.00209,-1.99871)"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="445.02655" y="377.957" dy="5.22" transform="translate(15.00209,-1.99871)">Reject Revision: 2.4%</text>
+<rect id="label9_bg" class="for_r9" x="279.87654" y="517.88375" width="169.81668" height="22.8" rx="4" fill="#fff" fill-opacity="0.55" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(10.0014,-84.99935)"></rect>
+<text id="label9" class="for_r9" text-anchor="end" x="445.02655" y="529.06375" dy="5.22" transform="translate(10.0014,-84.99935)">Accept Revision: 8.5%</text>
+</g>
+</g></svg>
