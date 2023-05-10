@@ -2,7 +2,7 @@
 title: "Making Scientific Lives"
 collection: projects
 type: book
-permalink: /publication/making-scientific-lives
+permalink: /project/making-scientific-lives
 excerpt: ''
 ---
 

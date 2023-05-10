@@ -2,7 +2,7 @@
 title: "Post45 Data Visualizations"
 collection: projects
 type: data-viz
-permalink: /publication/post45-data-viz
+permalink: /project/post45-data-viz
 excerpt: ''
 ---
 
