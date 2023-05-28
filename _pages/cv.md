@@ -64,7 +64,8 @@ Technologies and Tools
 Service and Experience
 ======
 - Peer Reviewer, _Twentieth Century Literature_, _ISLE: Interdisciplinary Studies in Literature and Environment_, 2023
-- _Post45_ (journal)
+- Member, Council of Editors of Learned Journals (CELJ), Modern Language Association, American Studies Association
+- <a href="https://post45.org">_Post45_</a> (journal)
   - **Co-Editor**, beginning July 2023
   - **Managing Editor**, 2020–2023
   - **Associate Editor** and **Web Developer**, 2018–2019
@@ -85,7 +86,7 @@ Additional Training
 ======
 - **Advanced Oral History Institute**, Oral History Center, UC Berkeley Bancroft Library (online), August 2023
 - **Our SHARED Future: Science, Humanities, Arts, Research Ethics, and Deliberation**, Jason Robery and Erica O'Neil, NEH Summer Institute, ASU Center for Biology and Society, June-July 2023
-- **Oral History Training Institute**, Science History Institute, Philadelphia, PA (online), May 2023
+- **Oral History Training Institute**, David J. Caruso, Science History Institute, Philadelphia, PA (online), May 2023
 - **Literary Biography: Archives and Life Stories**, Karin Roffman, Beinecke Library Master Class, Yale University, May 2019
 - **Challenges of Media Anthropology**, Lorenz Engell and Thomas Y. Levin, Princeton-Weimar Summer School for Media Studies, IKKM, Bauhaus-Universität Weimar, Germany, June 2017
 - **Feminist Digital Humanities: Theoretical, Social, and Material Engagements**, Elizabeth Losh and Jacqueline Wernimont, Digital Humanities Summer Institute, University of Victoria, Canada, June 2016
